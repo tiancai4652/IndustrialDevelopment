@@ -1,0 +1,12 @@
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\ConsoleApp1\bin\Debug\Entities.exe.config
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\ConsoleApp1\bin\Debug\Entities.exe
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\ConsoleApp1\bin\Debug\Entities.pdb
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\ConsoleApp1\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\ConsoleApp1\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\ConsoleApp1\obj\Debug\Entities.exe
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\ConsoleApp1\obj\Debug\Entities.pdb
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.dll
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.xml
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\ConsoleApp1\obj\Debug\Entities.csproj.CopyComplete
