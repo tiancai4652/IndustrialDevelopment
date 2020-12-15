@@ -10,6 +10,10 @@ namespace Entities
     {
         static void Main(string[] args)
         {
+            using (IndustrialDbContext dbContext = new IndustrialDbContext())
+            {
+                var tests = dbContext.Tests.ToList();
+            }
         }
     }
 }
