@@ -10,3 +10,5 @@ D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\ConsoleApp1\bin\Debug\Ent
 D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.xml
 D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
 D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\ConsoleApp1\obj\Debug\Entities.csproj.CopyComplete
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\ConsoleApp1\bin\Debug\SQLite.CodeFirst.dll
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\ConsoleApp1\bin\Debug\System.Data.SQLite.EF6.dll
