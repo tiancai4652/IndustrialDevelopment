@@ -1,0 +1,17 @@
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\EF_Test\bin\Debug\EF_Test.exe.config
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\EF_Test\bin\Debug\EF_Test.exe
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\EF_Test\bin\Debug\EF_Test.pdb
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\EF_Test\bin\Debug\EntityFramework.dll
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\EF_Test\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\EF_Test\bin\Debug\SQLite.CodeFirst.dll
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\EF_Test\bin\Debug\System.Data.SQLite.dll
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\EF_Test\bin\Debug\System.Data.SQLite.EF6.dll
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\EF_Test\bin\Debug\System.Data.SQLite.Linq.dll
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\EF_Test\bin\Debug\EntityFramework.xml
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\EF_Test\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\EF_Test\bin\Debug\System.Data.SQLite.xml
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\EF_Test\obj\Debug\EF_Test.csproj.CoreCompileInputs.cache
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\EF_Test\obj\Debug\EF_Test.csproj.CopyComplete
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\EF_Test\obj\Debug\EF_Test.exe
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\EF_Test\obj\Debug\EF_Test.pdb
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\EF_Test\obj\Debug\EF_Test.csprojAssemblyReference.cache

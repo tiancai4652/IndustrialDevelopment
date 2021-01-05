@@ -7,6 +7,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entity Framework", "Entity 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_CodeFirst", "EF_CodeFirst\EF_CodeFirst.csproj", "{AFF8FA51-C965-4E57-9AC0-5E97D170403F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_Test", "EF_Test\EF_Test.csproj", "{8ED1970D-01F1-4841-93B2-056713C3B3FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doc", "Doc", "{A1E9887E-8004-44F1-AAD3-655D224665F0}"
+	ProjectSection(SolutionItems) = preProject
+		Doc\1 .NET在PC端开发技术.md = Doc\1 .NET在PC端开发技术.md
+		Doc\2 兼容性问题.md = Doc\2 兼容性问题.md
+		Doc\3 数据持久化.md = Doc\3 数据持久化.md
+		Doc\5 6 7 8 9 10 11 12 13 14 跳过.md = Doc\5 6 7 8 9 10 11 12 13 14 跳过.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "typora-user-images", "typora-user-images", "{3366F98B-5595-4E71-981A-D99EB25979BA}"
+	ProjectSection(SolutionItems) = preProject
+		Doc\typora-user-images\image-20200428163027012.png = Doc\typora-user-images\image-20200428163027012.png
+		Doc\typora-user-images\image-20210105133830242.png = Doc\typora-user-images\image-20210105133830242.png
+		Doc\typora-user-images\image-20210105133902542.png = Doc\typora-user-images\image-20210105133902542.png
+		Doc\typora-user-images\image-20210105134145928.png = Doc\typora-user-images\image-20210105134145928.png
+		Doc\typora-user-images\image-20210105150942604.png = Doc\typora-user-images\image-20210105150942604.png
+		Doc\typora-user-images\image-20210105151123510.png = Doc\typora-user-images\image-20210105151123510.png
+		Doc\typora-user-images\image-20210105151755829.png = Doc\typora-user-images\image-20210105151755829.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +38,18 @@ Global
 		{AFF8FA51-C965-4E57-9AC0-5E97D170403F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFF8FA51-C965-4E57-9AC0-5E97D170403F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFF8FA51-C965-4E57-9AC0-5E97D170403F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ED1970D-01F1-4841-93B2-056713C3B3FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED1970D-01F1-4841-93B2-056713C3B3FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED1970D-01F1-4841-93B2-056713C3B3FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED1970D-01F1-4841-93B2-056713C3B3FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{AFF8FA51-C965-4E57-9AC0-5E97D170403F} = {E7C9A508-A732-4D9B-8ED3-AA6AE76375FE}
+		{8ED1970D-01F1-4841-93B2-056713C3B3FB} = {E7C9A508-A732-4D9B-8ED3-AA6AE76375FE}
+		{3366F98B-5595-4E71-981A-D99EB25979BA} = {A1E9887E-8004-44F1-AAD3-655D224665F0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {33D6FEF5-B0F5-47E3-B0F7-F59026D14A5B}
