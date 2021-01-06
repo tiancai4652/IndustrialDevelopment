@@ -1,0 +1,16 @@
+﻿Get
+
+GetSeriesNumber
+GetDatetime
+GetDeviceModel
+GetDeviceTempterature
+GetDeviceHumidity
+
+Set
+
+SeriesNumber XX
+SetDeviceModel XX
+
+Run
+
+

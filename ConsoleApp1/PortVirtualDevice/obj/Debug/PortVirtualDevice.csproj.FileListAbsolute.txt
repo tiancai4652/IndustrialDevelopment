@@ -1,0 +1,7 @@
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\PortVirtualDevice\bin\Debug\PortVirtualDevice.exe.config
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\PortVirtualDevice\bin\Debug\PortVirtualDevice.exe
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\PortVirtualDevice\bin\Debug\PortVirtualDevice.pdb
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\PortVirtualDevice\obj\Debug\PortVirtualDevice.csprojAssemblyReference.cache
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\PortVirtualDevice\obj\Debug\PortVirtualDevice.csproj.CoreCompileInputs.cache
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\PortVirtualDevice\obj\Debug\PortVirtualDevice.exe
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\PortVirtualDevice\obj\Debug\PortVirtualDevice.pdb

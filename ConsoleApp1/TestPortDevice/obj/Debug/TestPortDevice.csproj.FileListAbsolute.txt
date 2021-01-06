@@ -1,0 +1,7 @@
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\TestPortDevice\bin\Debug\TestPortDevice.exe.config
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\TestPortDevice\bin\Debug\TestPortDevice.exe
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\TestPortDevice\bin\Debug\TestPortDevice.pdb
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\TestPortDevice\obj\Debug\TestPortDevice.csprojAssemblyReference.cache
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\TestPortDevice\obj\Debug\TestPortDevice.csproj.CoreCompileInputs.cache
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\TestPortDevice\obj\Debug\TestPortDevice.exe
+D:\MyCode\Github2020\IndustrialDevelopment\ConsoleApp1\TestPortDevice\obj\Debug\TestPortDevice.pdb
